@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/nuoma/controls/cart_list.php</file>
+            <file>file:/C:/xampp/htdocs/nuoma/templates/main.tpl.php</file>
+            <file>file:/C:/xampp/htdocs/nuoma/controls/customer_create.php</file>
+            <file>file:/C:/xampp/htdocs/nuoma/controls/camera_edit.php</file>
+            <file>file:/C:/xampp/htdocs/nuoma/utils/mysql.class.php</file>
+            <file>file:/C:/xampp/htdocs/nuoma/templates/camera_list.tpl.php</file>
+            <file>file:/C:/xampp/htdocs/nuoma/templates/cart_form.tpl.php</file>
+            <file>file:/C:/xampp/htdocs/nuoma/libraries/cart.class.php</file>
+            <file>file:/C:/xampp/htdocs/nuoma/templates/orders_form.tpl.php</file>
+            <file>file:/C:/xampp/htdocs/nuoma/libraries/orders.class.php</file>
+            <file>file:/C:/xampp/htdocs/nuoma/controls/cart_create.php</file>
+            <file>file:/C:/xampp/htdocs/nuoma/libraries/customer.class.php</file>
+            <file>file:/C:/xampp/htdocs/nuoma/utils/validator.class.php</file>
+            <file>file:/C:/xampp/htdocs/nuoma/autonuoma.sql</file>
+            <file>file:/C:/xampp/htdocs/nuoma/templates/orders_list.tpl.php</file>
+            <file>file:/C:/xampp/htdocs/nuoma/controls/cart_edit.php</file>
+            <file>file:/C:/xampp/htdocs/nuoma/controls/camera_delete.php</file>
+            <file>file:/C:/xampp/htdocs/nuoma/controls/camera_create.php</file>
+            <file>file:/C:/xampp/htdocs/nuoma/controls/customer_list.php</file>
+            <file>file:/C:/xampp/htdocs/nuoma/controls/orders_create.php</file>
+            <file>file:/C:/xampp/htdocs/nuoma/controls/orders_list.php</file>
+            <file>file:/C:/xampp/htdocs/nuoma/controls/cart_delete.php</file>
+            <file>file:/C:/xampp/htdocs/nuoma/index.php</file>
+            <file>file:/C:/xampp/htdocs/nuoma/utils/paging.class.php</file>
+            <file>file:/C:/xampp/htdocs/nuoma/controls/orders_delete.php</file>
+            <file>file:/C:/xampp/htdocs/nuoma/templates/camera_form.tpl.php</file>
+            <file>file:/C:/xampp/htdocs/nuoma/templates/customer_form.tpl.php</file>
+            <file>file:/C:/xampp/htdocs/nuoma/controls/customer_delete.php</file>
+            <file>file:/C:/xampp/htdocs/nuoma/controls/orders_edit.php</file>
+            <file>file:/C:/xampp/htdocs/nuoma/templates/customer_list.tpl.php</file>
+            <file>file:/C:/xampp/htdocs/nuoma/templates/cart_list.tpl.php</file>
+            <file>file:/C:/xampp/htdocs/nuoma/controls/customer_edit.php</file>
+            <file>file:/C:/xampp/htdocs/nuoma/libraries/camera.class.php</file>
+            <file>file:/C:/xampp/htdocs/nuoma/controls/camera_list.php</file>
+        </group>
+    </open-files>
+</project-private>
